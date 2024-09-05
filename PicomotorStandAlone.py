@@ -88,11 +88,11 @@ class MotorOperations:
 
         # measure and modify the two parameters below for your magnification
         # distance in mm
-        self.distance_lens_lightscourse = 106
+        self.distance_lens_lightsource = 106
         self.distance_lens_ccd = 116
 
         #if there is a lens on the camera use magnification calculation
-        self.magnification = self.distance_lens_ccd / self.distance_lens_lightscourse
+        self.magnification = self.distance_lens_ccd / self.distance_lens_lightsource
         #self.magnification = 1
 
         # pixel size (micrometer) can be found on camera specifications sheet
