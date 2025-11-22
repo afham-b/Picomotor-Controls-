@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPositionAllSlaves", "GetPositionAllSlaves\GetPositionAllSlaves.csproj", "{9C328133-3434-4095-AF90-82B61E17F273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMultipleDevices", "OpenMultipleDevices\OpenMultipleDevices.csproj", "{72811254-D8DC-4193-8E3F-4680E3FBE0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSingleDevice", "OpenSingleDevice\OpenSingleDevice.csproj", "{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativeMove", "RelativeMove\RelativeMove.csproj", "{0CD85974-3E61-4336-AF41-FB3372B0DF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableClosedLoop", "EnableClosedLoop\EnableClosedLoop.csproj", "{9E51580E-29F7-4D91-A7F5-0007B4F23842}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccProjectUniqueName0 = GetPositionAllSlaves\\GetPositionAllSlaves.csproj
+		SccProjectName0 = \u0022$/ISTD/Apps/Utilities/Picomotor/PicomotorApp/Install/Samples/C#/Model\u00208743/GetPositionAllSlaves\u0022,\u0020XUIIAAAA
+		SccLocalPath0 = GetPositionAllSlaves
+		SccProjectUniqueName1 = OpenMultipleDevices\\OpenMultipleDevices.csproj
+		SccProjectName1 = \u0022$/ISTD/Apps/Utilities/Picomotor/PicomotorApp/Install/Samples/C#/Model\u00208743/OpenMultipleDevices\u0022,\u0020ZUIIAAAA
+		SccLocalPath1 = OpenMultipleDevices
+		SccProjectUniqueName2 = OpenSingleDevice\\OpenSingleDevice.csproj
+		SccProjectName2 = \u0022$/ISTD/Apps/Utilities/Picomotor/PicomotorApp/Install/Samples/C#/Model\u00208743/OpenSingleDevice\u0022,\u0020BVIIAAAA
+		SccLocalPath2 = OpenSingleDevice
+		SccProjectUniqueName3 = RelativeMove\\RelativeMove.csproj
+		SccProjectName3 = \u0022$/ISTD/Apps/Utilities/Picomotor/PicomotorApp/Install/Samples/C#/Model\u00208743/RelativeMove\u0022,\u0020DVIIAAAA
+		SccLocalPath3 = RelativeMove
+		SccLocalPath4 = .
+		SccProjectUniqueName5 = EnableClosedLoop\\EnableClosedLoop.csproj
+		SccLocalPath5 = .
+		SccProjectFilePathRelativizedFromConnection5 = EnableClosedLoop\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C328133-3434-4095-AF90-82B61E17F273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C328133-3434-4095-AF90-82B61E17F273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C328133-3434-4095-AF90-82B61E17F273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C328133-3434-4095-AF90-82B61E17F273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

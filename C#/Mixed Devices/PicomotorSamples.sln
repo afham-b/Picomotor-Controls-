@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPositionAllSlaves", "GetPositionAllSlaves\GetPositionAllSlaves.csproj", "{9C328133-3434-4095-AF90-82B61E17F273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMultipleDevices", "OpenMultipleDevices\OpenMultipleDevices.csproj", "{72811254-D8DC-4193-8E3F-4680E3FBE0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSingleDevice", "OpenSingleDevice\OpenSingleDevice.csproj", "{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativeMove", "RelativeMove\RelativeMove.csproj", "{0CD85974-3E61-4336-AF41-FB3372B0DF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableClosedLoop", "EnableClosedLoop\EnableClosedLoop.csproj", "{9E51580E-29F7-4D91-A7F5-0007B4F23842}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OpenMultipleDevices\\OpenMultipleDevices.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = OpenMultipleDevices\\
+		SccProjectUniqueName2 = GetPositionAllSlaves\\GetPositionAllSlaves.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = GetPositionAllSlaves\\
+		SccProjectUniqueName3 = OpenSingleDevice\\OpenSingleDevice.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = OpenSingleDevice\\
+		SccProjectUniqueName4 = RelativeMove\\RelativeMove.csproj
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = RelativeMove\\
+		SccProjectUniqueName5 = EnableClosedLoop\\EnableClosedLoop.csproj
+		SccLocalPath5 = .
+		SccProjectFilePathRelativizedFromConnection5 = EnableClosedLoop\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C328133-3434-4095-AF90-82B61E17F273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C328133-3434-4095-AF90-82B61E17F273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C328133-3434-4095-AF90-82B61E17F273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C328133-3434-4095-AF90-82B61E17F273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72811254-D8DC-4193-8E3F-4680E3FBE0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD85974-3E61-4336-AF41-FB3372B0DF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E51580E-29F7-4D91-A7F5-0007B4F23842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
